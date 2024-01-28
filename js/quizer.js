@@ -340,28 +340,195 @@ function load(){
 	setup();
 }
 
-// EN songs
+// RU songs
+const ru_2010_gr_icon = [
+	'ru_pop',
+	'ru_rock'
+];
 
+const RU_2010_GR_PACK_1 = 1;
+const RU_2010_GR_PACK_2 = 2;
 
+let ru_2010_gr = [
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Чай вдвоем',
+		song : "Белое платье"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Любэ',
+		song : "Всё опять начинается"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Потап и Настя',
+		song : "Чумачечая весна"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Потап и Настя',
+		song : "Если вдруг"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Градусы',
+		song : "Голая"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Reflex',
+		song : "Я буду небом твоим"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : '5ivesta Family',
+		song : "Вместе мы"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Дискотека Авария',
+		song : "Прогноз погоды (ft Кристина Орбакайте)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Градусы',
+		song : "Заметает"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пикник',
+		song : 'Сияние'
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Burito',
+		song : "По волнам"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'ДДТ',
+		song : "Песня о свободе"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Hatters',
+		song : "Да, со мной не просто"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Сплин',
+		song : "Когда пройдёт 100 лет"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Алиса',
+		song : "Дождь и я"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Мумий Тролль',
+		song : "Девочкодруг"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ю-Питер',
+		song : "Дети минут"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Stigmata',
+		song : "Время"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'СерьГа',
+		song : "Детское сердце"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Би-2',
+		song : "Компромисс"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Тараканы',
+		song : "Пойдём на улицу!"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Чайф',
+		song : "Про бобра и барабан"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ночные Снайперы',
+		song : "Поговори со мной, Ольга"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ленинград',
+		song : "В Питере — пить"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Animal ДжаZ',
+		song : "Здесь и сейчас"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Мураками',
+		song : "Нулевой километр"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Кукрыниксы',
+		song : "Жизнь бывает разная!"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'АукцЫон',
+		song : "Огонь"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Louna',
+		song : "Бойцовский клуб"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Машина времени',
+		song : "Однажды"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Lumen',
+		song : "Дух времени"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Сплин',
+		song : "Рай в шалаше"
+	}
+];
+
+let ru_2010_gr_1 =	ru_2010_gr.filter(item => item.pack == 1);
+let ru_2010_gr_2 =	ru_2010_gr.filter(item => item.pack == 2);
 
 let music = [
 	{
-		arr: en_2000_m,
-		lang: 'en',
-		year: '2000',
-		type: 'm',
+		arr: ru_2010_gr,
+		lang: 'ru',
+		year: '2010',
+		type: 'gr',
 		packs: [
 				{
-					arr: en_2000_m_1,
-					name: 'EN 2000s Male: Pop',
+					arr: ru_2010_gr_1,
+					name: 'RU 2010s Groups: Pop',
 				},
 				{
-					arr: en_2000_m_2,
-					name: 'EN 2000s Male: Dj',
-				},
-				{
-					arr: en_2000_m_3,
-					name: 'EN 2000s Male: Rap',
+					arr: ru_2010_gr_2,
+					name: 'RU 2010s Groups: Rock',
 				}
 			]
 	}
@@ -687,15 +854,15 @@ let generateAudioPath;
 let generateImgPath;
 
 function setup(){
-	lang = 'en';
-	year = '2000';
-	artist_type = 'm';
+	lang = 'ru';
+	year = '2010';
+	artist_type = 'gr';
 	back = back_to_packages;
 	modeToggle = toggleArtist;
 	setMedia = setAudio;
 	rightAnswer = rightAnswer_RU;
 	count_time();
-	package_names = en_2000_gr_icon;
+	package_names = ru_2010_gr_icon;
 	show_packages(package_names.length);
 	document.body.scrollTop = document.documentElement.scrollTop = 0;
 }
