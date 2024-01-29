@@ -509,6 +509,21 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_2,
 		group : 'Сплин',
 		song : "Рай в шалаше"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'RADIO TAPOK',
+		song : "Гвардия петра"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'RADIO TAPOK',
+		song : "Ночные ведьмы"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'RADIO TAPOK',
+		song : "Петропавловск"
 	}
 ];
 
