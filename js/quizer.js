@@ -524,6 +524,40 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_2,
 		group : 'RADIO TAPOK',
 		song : "Петропавловск"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'План Ломоносова',
+		song : "Мосты"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'План Ломоносова',
+		song : "#ялюбовь",
+		year : 2017
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'План Ломоносова',
+		song : "Бегом"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Три Дня Дождя',
+		song : "Отпускай",
+		year : 2022
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Три Дня Дождя',
+		song : "За край",
+		year : 2023
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Три Дня Дождя',
+		song : "Где ты",
+		year : 2021
 	}
 ];
 
