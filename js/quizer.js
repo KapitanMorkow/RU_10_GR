@@ -354,217 +354,319 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Чай вдвоем',
-		song : "Белое платье"
+		song : "Белое платье",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Любэ',
-		song : "Всё опять начинается"
+		song : "Всё опять начинается",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Потап и Настя',
-		song : "Чумачечая весна"
+		song : "Чумачечая весна",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Потап и Настя',
-		song : "Если вдруг"
+		song : "Если вдруг",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Градусы',
-		song : "Голая"
+		song : "Голая (2011)"
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Reflex',
-		song : "Я буду небом твоим"
+		song : "Я буду небом твоим",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : '5ivesta Family',
-		song : "Вместе мы"
+		song : "Вместе мы",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Дискотека Авария',
-		song : "Прогноз погоды (ft Кристина Орбакайте)"
+		song : "Прогноз погоды (ft Кристина Орбакайте)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Градусы',
-		song : "Заметает"
+		song : "Заметает (2014)"
 	},
 	{
-		pack : RU_2010_GR_PACK_1,
+		pack : RU_2010_GR_PACK_2,
 		group : 'Пикник',
-		song : 'Сияние'
+		song : 'Сияние (2019)'
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
 		group : 'Burito',
-		song : "По волнам"
+		song : "По волнам (2017)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'ДДТ',
-		song : "Песня о свободе"
+		song : "Песня о свободе (2011)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Hatters',
-		song : "Да, со мной не просто"
+		song : "Да, со мной не просто (2017)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Сплин',
-		song : "Когда пройдёт 100 лет"
+		song : "Когда пройдёт 100 лет (2018)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Алиса',
-		song : "Дождь и я"
+		song : "Дождь и я (2010)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Мумий Тролль',
-		song : "Девочкодруг"
+		song : "Девочкодруг (2010)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ю-Питер',
-		song : "Дети минут"
+		song : "Дети минут (2010)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Stigmata',
-		song : "Время"
+		song : "Время (2012)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'СерьГа',
-		song : "Детское сердце"
+		song : "Детское сердце (2011)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Би-2',
-		song : "Компромисс"
+		song : "Компромисс (2014)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Тараканы',
-		song : "Пойдём на улицу!"
+		song : "Пойдём на улицу! (2013)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Чайф',
-		song : "Про бобра и барабан"
+		song : "Про бобра и барабан (2017)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ночные Снайперы',
-		song : "Поговори со мной, Ольга"
+		song : "Поговори со мной, Ольга (2012)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ленинград',
-		song : "В Питере — пить"
+		song : "В Питере — пить (2016)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Animal ДжаZ',
-		song : "Здесь и сейчас"
+		song : "Здесь и сейчас (2014)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Мураками',
-		song : "Нулевой километр"
+		song : "Нулевой километр (2009)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Кукрыниксы',
-		song : "Жизнь бывает разная!"
+		song : "Жизнь бывает разная! (2012)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'АукцЫон',
-		song : "Огонь"
+		song : "Огонь (2011)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Louna',
-		song : "Бойцовский клуб"
+		song : "Бойцовский клуб (2010)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Машина времени',
-		song : "Однажды"
+		song : "Однажды (2016)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Lumen',
-		song : "Дух времени"
+		song : "Дух времени (2012)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Сплин',
-		song : "Рай в шалаше"
+		song : "Рай в шалаше (2014)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'RADIO TAPOK',
-		song : "Гвардия петра"
+		song : "Гвардия петра (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'RADIO TAPOK',
-		song : "Ночные ведьмы"
+		song : "Ночные ведьмы (2020)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'RADIO TAPOK',
-		song : "Петропавловск"
+		song : "Петропавловск (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'План Ломоносова',
-		song : "Мосты"
+		song : "Мосты (2018)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'План Ломоносова',
-		song : "#ялюбовь",
-		year : 2017
+		song : "#ялюбовь (2017)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'План Ломоносова',
-		song : "Бегом"
+		song : "Бегом (2012)"
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Три Дня Дождя',
 		song : "Отпускай",
-		year : 2022
+		year : 2022,
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Три Дня Дождя',
 		song : "За край",
-		year : 2023
+		year : 2023,
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Три Дня Дождя',
 		song : "Где ты",
-		year : 2021
+		year : 2021,
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Молчат дома',
-		song : "Звёзды",
-		year : 2019
+		song : "Звёзды (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Градусы',
+		song : "Научиться Бы Не Париться (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Burito',
+		song : "Мама (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Burito',
+		song : "Штрихи (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Пошлая Молли',
+		song : "Все хотят меня поцеловать (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Пошлая Молли',
+		song : "ХАННАМОНТАНА (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Пошлая Молли',
+		song : "Супермаркет (2016)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Моя Мишель',
+		song : "Люби меня до конца мира (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Моя Мишель',
+		song : "Химия (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Моя Мишель',
+		song : "Харуки (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Три Дня Дождя',
+		song : "Не стой на ветру (ft Сантос) (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Три Дня Дождя',
+		song : "Осень и алкоголь (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Три Дня Дождя',
+		song : "Красота (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Папин Олимпос',
+		song : "Тёмно-оранжевый закат (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Папин Олимпос',
+		song : "Школа (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Папин Олимпос',
+		song : "Сегодня не пойду (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пицца',
+		song : "Пятница (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пицца',
+		song : "Оружие (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пицца',
+		song : "Фары (2012)"
 	}
 ];
 
