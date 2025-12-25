@@ -667,6 +667,16 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_1,
 		group : 'Пицца',
 		song : "Фары (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'кис-кис',
+		song : "лбтд (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'кис-кис',
+		song : "мальчик (2019)"
 	}
 ];
 
