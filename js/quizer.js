@@ -344,11 +344,13 @@ function load(){
 // RU songs
 const ru_2010_gr_icon = [
 	'ru_pop',
-	'ru_rock'
+	'ru_rock',
+	'pop'
 ];
 
 const RU_2010_GR_PACK_1 = 1;
 const RU_2010_GR_PACK_2 = 2;
+const RU_2010_GR_PACK_3 = 3;
 
 let ru_2010_gr = [
 	{
@@ -409,7 +411,7 @@ let ru_2010_gr = [
 		song : 'Сияние (2019)'
 	},
 	{
-		pack : RU_2010_GR_PACK_1,
+		pack : RU_2010_GR_PACK_3,
 		group : 'Burito',
 		song : "По волнам (2017)"
 	},
@@ -677,11 +679,42 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_2,
 		group : 'кис-кис',
 		song : "мальчик (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : '30.02',
+		song : "Звёзды в лужах (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'MBAND',
+		song : "Она вернётся (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'Rauf & Faik',
+		song : "Детство (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'RSAC',
+		song : "Поезда (ft ELLA) (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'SLAVA SKRIPKA',
+		song : "Бобр (2024)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'Топлесс',
+		song : "Периферия (2021)"
 	}
 ];
 
 let ru_2010_gr_1 =	ru_2010_gr.filter(item => item.pack == 1);
 let ru_2010_gr_2 =	ru_2010_gr.filter(item => item.pack == 2);
+let ru_2010_gr_3 =	ru_2010_gr.filter(item => item.pack == 3);
 
 let music = [
 	{
@@ -692,11 +725,15 @@ let music = [
 		packs: [
 				{
 					arr: ru_2010_gr_1,
-					name: 'RU 2010s Groups: Pop',
+					name: 'RU 2010s Groups: Pop'
 				},
 				{
 					arr: ru_2010_gr_2,
-					name: 'RU 2010s Groups: Rock',
+					name: 'RU 2010s Groups: Rock'
+				},
+				{
+					arr: ru_2010_gr_3,
+					name: 'RU 2010s Groups: One-Hit Wonders'
 				}
 			]
 	}
