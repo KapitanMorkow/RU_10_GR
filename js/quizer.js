@@ -552,7 +552,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'План Ломоносова',
-		song : "Бегом (2012)"
+		song : "Бегом (2012)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -624,6 +625,121 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_3,
 		group : 'Мохито',
 		song : "Руки прочь (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'ssshhhiiittt!',
+		song : "Танцы (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Wildways',
+		song : "Километры (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'АлоэВера',
+		song : "Георгины (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'АлоэВера',
+		song : "Не было (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ангел НеБес',
+		song : "Дайте мне один патрон (2010)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Бригадный Подряд',
+		song : "Гитары (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Бригадный Подряд',
+		song : "Наливай-ка мама щей (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Бригадный Подряд',
+		song : "РивГош (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'КОПЕНGAGEN',
+		song : "Утопия (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Мёртвые осы',
+		song : "Я буду твоим солнцем (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ронин',
+		song : "Шёпот (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Северный Флот',
+		song : "Поднимая знамя (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Северный Флот',
+		song : "Стрелы (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Северный Флот',
+		song : "Вперёд и вверх (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Сироткин',
+		song : "Выше домов (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Сметана Band',
+		song : "Конструкторы (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'ТАйМСКВЕР',
+		song : "Из вечносолнечного льда (2016)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ундервуд',
+		song : "Платье в Горошек (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Ундервуд',
+		song : "Ракеты на Марс (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Яйцы Fаберже',
+		song : "Все на футбол! (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Черный Обелиск',
+		song : "Стой и смотри (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Сурганова и Оркестр',
+		song : "Воздух (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Йорш',
+		song : "Андеграунд (2019)"
 	}
 ];
 
