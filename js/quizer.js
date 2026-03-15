@@ -411,7 +411,7 @@ let ru_2010_gr = [
 		song : 'Сияние (2019)'
 	},
 	{
-		pack : RU_2010_GR_PACK_3,
+		pack : RU_2010_GR_PACK_1,
 		group : 'Burito',
 		song : "По волнам (2017)"
 	},
@@ -597,7 +597,7 @@ let ru_2010_gr = [
 		song : "Звёзды в лужах (2014)"
 	},
 	{
-		pack : RU_2010_GR_PACK_3,
+		pack : RU_2010_GR_PACK_1,
 		group : 'MBAND',
 		song : "Она вернётся (2014)"
 	},
@@ -740,6 +740,21 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_2,
 		group : 'Йорш',
 		song : "Андеграунд (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Burito',
+		song : "Мама (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Burito',
+		song : "Она (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'MBAND',
+		song : "Посмотри на меня (2015)"
 	}
 ];
 
@@ -778,6 +793,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1116,6 +1132,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
