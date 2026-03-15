@@ -390,9 +390,8 @@ let ru_2010_gr = [
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
-		group : '5ivesta Family',
-		song : "Вместе мы",
-		ignore : true
+		group : '5sta Family',
+		song : "Вместе мы (2012)"
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
@@ -755,6 +754,36 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_1,
 		group : 'MBAND',
 		song : "Посмотри на меня (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : '#2Маши',
+		song : "Мама я танцую (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : '5sta Family',
+		song : "Тук-тук (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : '5sta Family',
+		song : "Зачем (2010)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : "A'Studio",
+		song : "Fashion Girl (2010)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : "A'Studio",
+		song : "Папа, мама (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : "A'Studio",
+		song : "Тик-так (2017)"
 	}
 ];
 
