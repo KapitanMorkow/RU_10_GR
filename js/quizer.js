@@ -784,6 +784,11 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_1,
 		group : "A'Studio",
 		song : "Тик-так (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'Людмил Огурченко',
+		song : "Таити (2024)"
 	}
 ];
 
