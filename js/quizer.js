@@ -407,7 +407,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Пикник',
-		song : 'Сияние (2019)'
+		song : 'Сияние (2019)',
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_1,
@@ -417,7 +418,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'ДДТ',
-		song : "Песня о свободе (2011)"
+		song : "Песня о свободе (2011)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -432,17 +434,20 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Алиса',
-		song : "Дождь и я (2010)"
+		song : "Дождь и я (2010)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Мумий Тролль',
-		song : "Девочкодруг (2010)"
+		song : "Девочкодруг (2010)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ю-Питер',
-		song : "Дети минут (2010)"
+		song : "Дети минут (2010)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -457,7 +462,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Би-2',
-		song : "Компромисс (2014)"
+		song : "Компромисс (2014)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -467,17 +473,20 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Чайф',
-		song : "Про бобра и барабан (2017)"
+		song : "Про бобра и барабан (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ночные Снайперы',
-		song : "Поговори со мной, Ольга (2012)"
+		song : "Поговори со мной, Ольга (2012)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ленинград',
-		song : "В Питере — пить (2016)"
+		song : "В Питере — пить (2016)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -493,12 +502,14 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Кукрыниксы',
-		song : "Жизнь бывает разная! (2012)"
+		song : "Жизнь бывает разная! (2012)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'АукцЫон',
-		song : "Огонь (2011)"
+		song : "Огонь (2011)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -508,17 +519,20 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Машина времени',
-		song : "Однажды (2016)"
+		song : "Однажды (2016)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Lumen',
-		song : "Дух времени (2012)"
+		song : "Дух времени (2012)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Сплин',
-		song : "Рай в шалаше (2014)"
+		song : "Рай в шалаше (2014)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -628,7 +642,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'ssshhhiiittt!',
-		song : "Танцы (2019)"
+		song : "Танцы (2019)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -668,12 +683,14 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'КОПЕНGAGEN',
-		song : "Утопия (2017)"
+		song : "Утопия (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Мёртвые осы',
-		song : "Я буду твоим солнцем (2018)"
+		song : "Я буду твоим солнцем (2018)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
