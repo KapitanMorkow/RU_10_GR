@@ -806,6 +806,21 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_3,
 		group : 'Людмил Огурченко',
 		song : "Таити (2024)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'IOWA',
+		song : "Невеста (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'IOWA',
+		song : "Улыбайся (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'IOWA',
+		song : "Простая Песня (2011)"
 	}
 ];
 
