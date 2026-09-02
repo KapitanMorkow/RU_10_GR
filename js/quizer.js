@@ -590,7 +590,7 @@ let ru_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_3,
 		group : 'Молчат дома',
 		song : "Звёзды (2019)"
 	},
@@ -821,6 +821,21 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_2,
 		group : 'IOWA',
 		song : "Простая Песня (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'Дурной Вкус',
+		song : "Пластинки (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'Сова',
+		song : "Гроза (2024)"
+	},
+	{
+		pack : RU_2010_GR_PACK_3,
+		group : 'Электрофорез',
+		song : "Фейерверк (2024)"
 	}
 ];
 
