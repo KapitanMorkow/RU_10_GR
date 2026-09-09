@@ -854,6 +854,11 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_1,
 		group : 'Пошлая Молли',
 		song : "Все хотят меня поцеловать (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'TRITIA',
+		song : "Wake (2017)"
 	}
 ];
 
