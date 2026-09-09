@@ -695,7 +695,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Ронин',
-		song : "Шёпот (2017)"
+		song : "Шёпот (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -720,7 +721,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Сметана Band',
-		song : "Конструкторы (2017)"
+		song : "Конструкторы (2017)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -740,7 +742,8 @@ let ru_2010_gr = [
 	{
 		pack : RU_2010_GR_PACK_2,
 		group : 'Яйцы Fаберже',
-		song : "Все на футбол! (2014)"
+		song : "Все на футбол! (2014)",
+		ignore : true
 	},
 	{
 		pack : RU_2010_GR_PACK_2,
@@ -808,17 +811,17 @@ let ru_2010_gr = [
 		song : "Таити (2024)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'IOWA',
 		song : "Невеста (2014)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'IOWA',
 		song : "Улыбайся (2012)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'IOWA',
 		song : "Простая Песня (2011)"
 	},
@@ -838,17 +841,17 @@ let ru_2010_gr = [
 		song : "Фейерверк (2024)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'Пошлая Молли',
 		song : "Супермаркет (2017)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'Пошлая Молли',
 		song : "CTRL+Zzz (2018)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'Пошлая Молли',
 		song : "Все хотят меня поцеловать (2018)"
 	}
