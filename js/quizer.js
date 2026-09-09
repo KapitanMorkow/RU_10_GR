@@ -422,7 +422,7 @@ let ru_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'Hatters',
 		song : "Да, со мной не просто (2017)"
 	},
@@ -595,12 +595,12 @@ let ru_2010_gr = [
 		song : "Звёзды (2019)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'кис-кис',
 		song : "лбтд (2019)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'кис-кис',
 		song : "мальчик (2019)"
 	},
@@ -646,17 +646,17 @@ let ru_2010_gr = [
 		ignore : true
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'Wildways',
 		song : "Километры (2019)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'АлоэВера',
 		song : "Георгины (2012)"
 	},
 	{
-		pack : RU_2010_GR_PACK_2,
+		pack : RU_2010_GR_PACK_1,
 		group : 'АлоэВера',
 		song : "Не было (2012)"
 	},
