@@ -904,6 +904,81 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_1,
 		group : 'Виа Гра',
 		song : "Перемирие (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Artik & Asti',
+		song : "Под гипнозом (2019)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Artik & Asti',
+		song : "Номер 1 (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Artik & Asti',
+		song : "Неделимы (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пицца',
+		song : "Оружие (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пицца',
+		song : "Романс (2016)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Пицца',
+		song : "Пятница (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Марсель',
+		song : "Туда, где (2010)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Марсель',
+		song : "Эта песня для тебя (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Марсель',
+		song : "Предубеждение и гордость (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Грибы',
+		song : "Копы (2016)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Грибы',
+		song : "Велик (2016)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Грибы',
+		song : "Тает лёд (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Хлеб',
+		song : "Чай, сахар (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Хлеб',
+		song : "Шашлындос (2018)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Хлеб',
+		song : "Курточка Stone Island (2017)"
 	}
 ];
 
