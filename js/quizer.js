@@ -859,6 +859,51 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_1,
 		group : 'TRITIA',
 		song : "Wake (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Винтаж',
+		song : "Знак Водолея (2013)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Винтаж',
+		song : "Микки (2010)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Винтаж',
+		song : "XXI век (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Serebro',
+		song : "Между нами любовь (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Serebro',
+		song : "Мама Люба (2011)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Serebro',
+		song : "Перепутала (2015)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Фабрика',
+		song : "Не родись красивой (2017)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Виа Гра',
+		song : "У меня появился другой (ft Вахтанг) (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_1,
+		group : 'Виа Гра',
+		song : "Перемирие (2013)"
 	}
 ];
 
