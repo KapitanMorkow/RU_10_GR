@@ -1016,6 +1016,16 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_4,
 		group : 'Буерак',
 		song : "Страсть к курению (2016)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'FPG',
+		song : "Там, где ты есть (2012)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'FPG',
+		song : "Стремиться (2014)"
 	}
 ];
 
@@ -1040,7 +1050,7 @@ let music = [
 					name: 'RU 2010s Groups: Rock'
 				},
 				{
-					arr: ru_2010_gr_3,
+					arr: ru_2010_gr_4,
 					name: 'RU 2010s Groups: Post-Punk'
 				},
 				{
