@@ -1026,6 +1026,21 @@ let ru_2010_gr = [
 		pack : RU_2010_GR_PACK_2,
 		group : 'FPG',
 		song : "Стремиться (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Элизиум',
+		song : "100% хит (2014)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Элизиум',
+		song : "Круглый год (2010)"
+	},
+	{
+		pack : RU_2010_GR_PACK_2,
+		group : 'Элизиум',
+		song : "Чёрное знамя (2014)"
 	}
 ];
 
